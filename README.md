@@ -15,7 +15,7 @@
   <h4>- Authentication : Firebase</h4> <br>
 <p>
 <img src="https://github.com/Belveloper/FlixFlex/blob/main/Screenshot_20230111_124753.jpg" width="200" height="440"/>
-<img src="https://github.com/Belveloper/FlixFlex/blob/main/Screenshot_20230111_000604.jpg" width="200" height="440"/>
+<img src="https://github.com/Belveloper/FlixFlex/blob/main/Screenshot_20230111_125729.jpg" width="200" height="440"/>
   <img src="https://github.com/Belveloper/FlixFlex/blob/main/Screenshot_20230111_124717.jpg" width="200" height="440"/>
 <img src="https://github.com/Belveloper/FlixFlex/blob/main/Screenshot_20230111_124724.jpg" width="200" height="440"/>
 <img src="https://github.com/Belveloper/FlixFlex/blob/main/Screenshot_20230111_124742.jpg" width="200" height="440"/>
